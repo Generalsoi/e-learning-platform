@@ -1,6 +1,6 @@
-#E-Learning platform#
+#E-Learning platform
 
-##A platform built to transform the analog learning process found in the university ##
-## to a digitial process. ##
+##A platform built to transform the analog learning process found in the university 
+## to a digitial process. 
 
-##It is still a work in progress though. ##
+##It is still a work in progress though. 
